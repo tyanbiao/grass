@@ -9,6 +9,7 @@ services:
       - ./data/accounts.txt:/grass/data/accounts.txt
       - ./data/proxies.txt:/grass/data/proxies.txt
       - ./data/config.py:/grass/data/config.py
+      - ./data/proxies_stats.db:/grass/data/proxies_stats.db
     ports:
       - 8080:80
     environment:
