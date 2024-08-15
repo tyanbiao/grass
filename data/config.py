@@ -1,5 +1,6 @@
 THREADS = 1  # for register account / claim rewards mode / approve email mode
 MIN_PROXY_SCORE = 50  # for mining mode
+REF_CODE = "p6rS_D7crDxykK3"
 
 #########################################
 APPROVE_EMAIL = True  # approve email (NEEDED IMAP AND ACCESS TO EMAIL)
