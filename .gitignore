@@ -203,3 +203,4 @@ cython_debug/
 data/accounts.txt
 data/proxies.txt
 data/proxies_stats.db
+data/_accounts.txt
